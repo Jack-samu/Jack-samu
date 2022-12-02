@@ -1,101 +1,101 @@
 {
     "titleNameMap": {
-      "educationList": "教育背景",
-      "workExpList": "工作经历",
-      "projectList": "项目经验",
-      "skillList": "个人技能",
-      "workList": "个人作品",
-      "aboutme": "个人评价"
+        "educationList": "教育背景",
+        "workExpList": "工作经历",
+        "projectList": "项目经验",
+        "skillList": "个人技能",
+        "workList": "个人作品",
+        "aboutme": "个人评价"
     },
     "avatar": {
-      "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
-      "hidden": false
+        "src": "https://avatars.githubusercontent.com/u/15646325?v=4",
+        "hidden": false
     },
     "profile": {
-      "name": "何永杰",
-      "email": "pentaJack@163.com",
-      "mobile": "17765670636",
-      "csdn":"https://blog.csdn.net/weixin_44948269?spm=1000.2115.3001.5343",
-      "workExpYear": ""
+        "name": "何永杰",
+        "email": "pentaJack@163.com",
+        "mobile": "17765670636",
+        "csdn":"https://blog.csdn.net/weixin_44948269?spm=1000.2115.3001.5343",
+        "workExpYear": ""
     },
     "educationList": [
-      {
+        {
         "edu_time": [
-          "2016.09.09",
-          "2021.06.30"
+            "2016.09.09",
+            "2021.06.30"
         ],
         "school": "广东石油化工学院",
         "major": "电子信息工程",
         "academic_degree": "本科"
-      }
+        }
     ],
     "awardList": [
-      {
+        {
         "award_info": "英语 CET6",
         "award_time": "2015"
-      }
+        }
     ],
     "workExpList": [
-      {
+        {
         "company_name": "深信服",
         "department_name": "应用交互部",
         "work_time": [
-          "2022.02",
-          "2022.09"
+            "2022.02",
+            "2022.09"
         ],
         "work_desc": "在效能小组中担任测试开发工程师，工作目的是效能提升；\r\n主要负责产品流水线CI/CD的功能添加和维护；\r\n后期添加了部门中个别平台的优化和维护\r\n"
-      },
-      {
+        },
+        {
         "company_name": "广州亿图自动控制系统有限公司",
         "department_name": "PLC小组",
         "work_time": [
-          "2021.08",
-          "2021.11"
+            "2021.08",
+            "2021.11"
         ],
         "work_desc": "实习生，主要使用QT配合小组成员在工业可视化软件的开发，从开发到自测都个人闭环的软件作业"
-      },
-      {
+        },
+        {
         "company_name": "励禾互娱科技有限公司",
         "department_name": "",
         "work_time": [
-          "2021.04",
-          "2021.06"
+            "2021.04",
+            "2021.06"
         ],
         "work_desc": "客户端实习生，用lua来进行活动模块的脚本开发，然后添加到配置中，最后进行vs的c++调用"
-      }
+        }
     ],
     "skillList": [
         "c/c++","python","lua","熟悉windows和linux下软件开发"
     ],
     "projectList": [
-      {
+        {
         "project_name": "网络服务器",
         "project_role": "核心开发者",
         "project_time": "2021.12",
         "project_desc": "使用底层c语言引用socket接口在windows系统和linux系统进行简易C/S模式的服务器开发",
         "project_content": "从TCP/UDP出发，进行简单的传信服务器到回声服务器再到聊天服务器，从一对一的简易实现到一对多的并发实现，最后实现一个简单的http服务器，没有添加ssl安全"
-      },
-      {
+        },
+        {
         "project_name": "windows聊天服务器",
         "project_role": "核心开发者",
         "project_time": "2021.07",
         "project_desc": "在windows上进行的c风格socket实现",
         "project_content": "服务端负责监听和建立连接，把来自客户的聊天信息进行广播到所有用户那里，形成一个聊天室的效果"
-      },
-      {
+        },
+        {
         "project_name": "太阳系天体系统绘制",
         "project_role": "核心开发者",
         "project_time": "2021.03",
         "project_desc": "基于openGL实现的freeglut库的开发，主要实现太阳系的2D图画绘制",
         "project_content": "在centos中借助freeglut进行开发，使用c++的开发也顺便感受一下OOP"
-      }
+        }
     ],
     "workList": [],
     "aboutme": {
-      "aboutme_desc": "自我学习能力强，能有效交付上级任务"
+        "aboutme_desc": "自我学习能力强，能有效交付上级任务"
     },
     "theme": {
-      "color": "#2f5785",
-      "tagColor": "#8bc34a"
+        "color": "#2f5785",
+        "tagColor": "#8bc34a"
     }
-  }
+}
