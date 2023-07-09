@@ -67,21 +67,21 @@
       "project_role": "负责人兼开发者",
       "project_time": "持续项目",
       "project_desc": "针对网络通信的实现，主要是针对TCP/UDP传输层以及上层HTTP以及websocket等网络通信的实现项目，项目地址：https://gitee.com/jacksamu/network-programming",
-      "project_content": "1. 梳理C语言中POSIX规范和windows下两种socket及配套api的使用而成的底层实现\n2. 引入C++中准标准库boost的asio的使用，实现通信\n3.引入python实现的网络通信，除了底层socket还有上层http实现\n算是一个整合以及知识总结的项目"
+      "project_content": "\n1. 梳理C语言中POSIX规范和windows下两种socket及配套api的使用而成的底层实现\n2. 引入C++中准标准库boost的asio的使用，实现通信\n3.引入python实现的网络通信，除了底层socket还有上层http实现\n算是一个整合以及知识总结的项目"
     },
     {
       "project_name": "全栈项目",
       "project_role": "负责人兼开发者",
       "project_time": "持续项目",
       "project_desc": "针对一些网站的全栈实现，不断应用不同的web框架，使用不同git标签进行不同实现的划分，项目地址：https://gitee.com/jacksamu/blog",
-      "project_content": "1. 目前主要是针对flask和django两个框架的尝试，实现一个blog项目\n2. 采用前后端分离的架构，前台采用vue框架，后台则随意，后续会引进fastapi以及golang的gin\n3. 目前暂时不考虑过于优美的样式，所以只用了bootstrap的样式框架，而且是单页面应用，后续逐步优化\n4.项目搭建成型，就是个人产品了"
+      "project_content": "\n1. 目前主要是针对flask和django两个框架的尝试，实现一个blog项目\n2. 采用前后端分离的架构，前台采用vue框架，后台则随意，后续会引进fastapi以及golang的gin\n3. 目前暂时不考虑过于优美的样式，所以只用了bootstrap的样式框架，而且是单页面应用，后续逐步优化\n4.项目搭建成型，就是个人产品了"
     },
     {
       "project_name": "个人博客和技术布施",
       "project_role": "负责人",
       "project_time": "持续项目",
-      "project_desc": "在个人搭建的博客平台和知乎、csdn等博客平台进行学习和技术记录，重点在于技术布施和个人技术号的打造，而个人博客的打造主要是锻炼前端node素养",
-      "project_content": "知乎：https://www.zhihu.com/people/JackNUO/posts \nCSDN: https://blog.csdn.net/weixin_44948269?spm=1000.2115.3001.5343 \n个人博客： https://jacksamu.gitee.io/"
+      "project_desc": "在个人搭建的博客平台和知乎、csdn等博客平台进行学习和技术记录，重点在于技术布施和个人技术号的打造，而个人博客的打造主要是锻炼前端node素养。",
+      "project_content": "\n知乎：https://www.zhihu.com/people/JackNUO/posts \nCSDN: https://blog.csdn.net/weixin_44948269?spm=1000.2115.3001.5343 \n个人博客： https://jacksamu.gitee.io/"
     }
   ],
   "workList": [],
