@@ -1,5 +1,7 @@
 <font face="楷体">
 
+![page](https://github.com/Jack-samu/Jack-samu/blob/main/wallhaven-dpjvjm_3840x3072.png)
+
 ### Hi! Nice to see you!
 
 Through my work and studies, I have gained experience with low-level languages—C, C++, and assembly—as well as Python, which I use for rapid application development. In my professional work, I primarily use Go for backend development and Vue for the frontend. My current code repository consists mainly of backend projects, complemented by some frontend work. I welcome any feedback or suggestions.
